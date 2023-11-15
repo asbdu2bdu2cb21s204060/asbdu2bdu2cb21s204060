@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mohamed Hasim.h
+- 👋 Hi, I’m @Mohamed Hasim.H
 - 👀 I’m interested in Software Developing 
 - 🌱 I’m currently learning Html and website making Course
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some base level website company
 - 📫 How to reach me just mail me on hasimfahim77@gmail.com
 
 <!---
